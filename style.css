@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+
+h1 {
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-size-adjust:50px;
+}
+
+p {
+    color:white;
+}
+
+p {
+    color:white;
+}
+button {
+    color:white;
+    background-color: blueviolet;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
